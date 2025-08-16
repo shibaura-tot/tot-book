@@ -1,12 +1,12 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: First Blog Post初ブログ投稿めでたい
 authors: [slorber, yangshun]
 tags: [hola, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet...
+初ブログ投稿めでたい
 
 <!-- truncate -->
 
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+いい感じにいいかんじだな

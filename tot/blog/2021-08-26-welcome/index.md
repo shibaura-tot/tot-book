@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Welcome
+title: totにようこそ
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---

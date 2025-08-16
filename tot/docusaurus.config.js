@@ -91,7 +91,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'ハンドブック',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -134,7 +134,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'ブログ記事',
                 to: '/blog',
               },
               {
