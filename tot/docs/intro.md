@@ -1,47 +1,48 @@
 ---
 sidebar_position: 1
+title: T.O.T.へようこそ！
+description: 芝浦工業大学の公認フリーペーパー制作サークル「T.O.T.」の公式ハンドブックです。私たちの理念、活動内容、そして一冊を創り上げる文化について紹介します。
 ---
 
-# Tutorial Intro
+# T.O.T. Handbookへようこそ！
 
-Let's discover **Docusaurus in less than 5 minutes**.
+まだ知らない「面白い」を探しているあなたへ。
+芝浦工業大学公認フリーペーパー制作サークル「T.O.T. (トット)」の公式ハンドブックにアクセスしていただき、ありがとうございます！
 
-## Getting Started
+このハンドブックは、私たちの活動の羅針盤となる情報、制作のルール、そしてこれまでに蓄積された知識が集約された**「totの公式ガイドブック」**です。私たちの理念に共感し、仲間として加わってくれるあなたが、スムーズに活動を始められるように作成しました。
 
-Get started by **creating a new site**.
+## 🎯 T.O.T.とは？ 「"手に取る一冊、広がる興味。"」
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+私たちT.O.T.は、**「"手に取る一冊、広がる興味。"」**を理念に掲げる、フリーペーパー制作サークルです。
 
-## Generate a new site
+「何かを書いてみたいけど、テーマが見つからない」
+「自分のデザインやイラストを形にしてみたい」
+「同じ趣味の仲間と、何か一つのものを創り上げてみたい」
 
-Generate a new Docusaurus site using the **classic template**.
+そんな思いを抱えていませんか？ 私たちは、企画、取材、執筆、デザイン、編集といった全ての工程を、同じ志を持つ仲間と協力しながら行っています。読者がページをめくるたびに新しい世界に出会えるような、そんな一冊をチームで創り上げる楽しさを追求しています。
 
-The classic template will automatically be added to your project after you run the command:
+### 私たちが大切にしていること
+* **好奇心と探求心:** 身の回りにある面白いこと、まだ知られていない魅力的なことを探求する意欲を大切にします。
+* **仲間との協力:** 企画会議から校了まで、全ての工程で対話を重ねます。互いのアイデアを尊重し、助け合う文化を重視しています。
+* **一冊を創り上げる達成感:** アイデアが記事やデザインになり、それが一冊の冊子として完成し、読者の手に渡る。その瞬間の達成感こそが、私たちの最大のモチベーションです。
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## 📖 このチュートリアルで始めよう
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+このハンドブックは、あなたがT.O.T.のメンバーとしての一歩を踏み出すためのガイドです。
+以下のステップを順番に進めて、私たちの活動に参加する準備を整えましょう！
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+1.  **[コミュニケーションツールの準備](./communication-setup.md)**
+    まずはチームと繋がるためのツールに参加します。
 
-## Start your site
+2.  **[制作環境の準備](./production-environment-setup.md)**
+    記事の執筆やデザインに必要なツールを準備します。
 
-Run the development server:
+3.  **[基本的な制作フローの学習](./basic-production-flow.md)**
+    企画から入稿までの、フリーペーパー制作の一連の流れを学びます。
 
-```bash
-cd my-website
-npm run start
-```
+4.  **[あなたの最初の貢献！](./first-contribution.md)**
+    学んだことを活かして、次号の企画会議でアイデアを出してみましょう！
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+それでは、最初のステップへ進んでください！
