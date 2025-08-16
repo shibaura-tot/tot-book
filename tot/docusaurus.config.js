@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ao1137/tot-handbook/tree/main/',
+            'https://github.com/ao1137/tot-handbook/tree/main/tot/docs',
         },
         blog: {
           showReadingTime: true,
@@ -62,7 +62,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ao1137/tot-handbook/tree/main/',
+            'https://github.com/ao1137/tot-handbook/tree/main/tot/blog',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
