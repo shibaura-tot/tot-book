@@ -47,7 +47,7 @@
 
 ## 🤝 関連リンク
 
-- **芝浦工業大学 tot編集部公式サイト** (<- もしあればリンクをここに)
+- **芝浦工業大学 tot編集部公式サイト** [https://tot-ch.com/]
 - **Docusaurus公式サイト:** [https://docusaurus.io/](https://docusaurus.io/)
 
 ---
