@@ -29,6 +29,10 @@
     cd tot-handbook
     ```
 
+   ```bash
+        cd tot
+    ```
+
 3.  **依存関係をインストール**
     ```bash
     npm install
