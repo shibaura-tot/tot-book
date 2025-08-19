@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ao1137/tot-handbook/tree/main/tot/docs',
+            'https://github.com/ao1137/tot-handbook/tree/main/tot/',
         },
         blog: false, // ← このように変更する
         theme: {
