@@ -12,14 +12,6 @@ tot編集部は芝浦工業大学の公認サークルです。
 
 キャンパス内で発行しているtotという雑誌を作っています。
 
-HP>>https://tot-ch external_link
-
-X>>https://x.com/tot_editors external_link
-
-Instagram>>http://instagram.com/tot_shibaura external_link
-
-
-
 ## 🎯 totとは？ 「"手に取る一冊、広がる興味。"」
 
 
