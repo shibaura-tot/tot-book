@@ -19,9 +19,32 @@
 
 このハンドブックを自分のPCで動かして、編集に参加することができます。
 
+### 1. 必要なツールのインストール
+
+まず、開発に必要なツールをPCにインストールします。
+
+- **VS Code:** コードエディタです。
+    - [公式サイト](https://code.visualstudio.com/)からダウンロードしてインストールしてください。
+- **Git:** GitHubからソースコードをダウンロードするために必要です。
+    - [公式サイト](https://git-scm.com/downloads)からダウンロードしてインストールしてください。
+- **Node.js:** Docusaurusを動かすための実行環境です。
+    - [公式サイト](https://nodejs.org/)から**LTS版**（推奨版）をダウンロードしてインストールしてください。
+- **Typora (推奨):** シンプルで使いやすいMarkdownエディタです。VS Codeでも編集できますが、文章作成に集中したい場合におすすめです。
+    - [公式サイト](https://typora.io/)からダウンロードできます。
+- **GitHubクライアント (推奨):** Gitのコマンドライン操作に慣れていない方は、GUI（グラフィカル・ユーザー・インターフェース）ツールを使うと便利です。
+    - **初心者向け:** [GitHub Desktop](https://desktop.github.com/)
+    - **中〜上級者向け:** [Fork](https://git-fork.com/)
+
+
+
+---
+### 2. プロジェクトの準備と起動
+
+必要なツールをインストールしたら、VS Codeのターミナル（またはGitHubクライアント）で以下の手順を実行します。
+
 1.  **リポジトリをクローン**
     ```bash
-    git clone [https://github.com/ao1137/tot-handbook.git](https://github.com/ao1137/tot-handbook.git)
+    git clone https://github.com/ao1137/tot-handbook.git
     ```
 
 2.  **フォルダに移動**
@@ -29,8 +52,6 @@
     cd tot-handbook
     cd tot
     ```
-
-
 
 3.  **依存関係をインストール**
     ```bash
@@ -52,7 +73,5 @@
 
 ## 🤝 関連リンク
 
-- **芝浦工業大学 tot編集部公式サイト** [https://tot-ch.com/]
+- **芝浦工業大学 tot編集部公式サイト:** [https://tot-ch.com/](https://tot-ch.com/)
 - **Docusaurus公式サイト:** [https://docusaurus.io/](https://docusaurus.io/)
-
----
