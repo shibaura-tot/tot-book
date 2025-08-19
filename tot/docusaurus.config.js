@@ -53,21 +53,7 @@ const config = {
           editUrl:
             'https://github.com/ao1137/tot-handbook/tree/main/tot/docs',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/ao1137/tot-handbook/tree/main/tot/blog',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false, // ← このように変更する
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -93,7 +79,7 @@ const config = {
             position: 'left',
             label: 'ハンドブック',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          
           {
             href: 'https://github.com/ao1137/tot-handbook',
             label: 'GitHub',
@@ -133,10 +119,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'ブログ記事',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/ao1137/tot-handbook',
