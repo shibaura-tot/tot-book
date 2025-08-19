@@ -27,11 +27,10 @@
 2.  **フォルダに移動**
     ```bash
     cd tot-handbook
+    cd tot
     ```
 
-   ```bash
-        cd tot
-    ```
+
 
 3.  **依存関係をインストール**
     ```bash
