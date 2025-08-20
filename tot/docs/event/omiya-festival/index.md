@@ -13,6 +13,7 @@ https://www.instagram.com/tot_shibaura?utm_source=ig_web_button_share_sheet&igsh
 
 ↓2024年は初の試みで企画をやりました。
 
+![2024年の企画](./omiya-fes-2024-kikaku.jpg)
 
 大宮祭に参加する際は第一回説明会参加が必須となっています。
 年にもよりますが、学内ポスター掲示やメールでの通知で説明会の通知が来るため情報を逃さないようにしましょう。
@@ -22,3 +23,4 @@ https://www.instagram.com/tot_shibaura?utm_source=ig_web_button_share_sheet&igsh
 その後、何度かの説明会参加を経て大宮祭開催となります
 
 定期的に提出物を求められます。企画書などの提出物関係以の記載に迷った場合は過去の大宮祭ファイルから参考にすることができます。
+![過去の提出物ファイル](./omiya-fes-past-files.png)
