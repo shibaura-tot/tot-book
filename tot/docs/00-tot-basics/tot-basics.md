@@ -2,10 +2,248 @@
 sidebar_position: 1
 ---
 
-# まずはtotのここを知ろう！
 
-## totの年間スケジュール
 
-## 定例会
+# totへようこそ！
 
-## 対面会
+totは、芝浦工業大学で学生向けのフリーペーパーを企画から制作、発行まで行っている公認サークルです。大学生の「知りたい！」に応える記事から、ちょっとマニアックな面白い企画まで、自分たちが作りたいものを形にしています！
+
+
+---
+
+## どんなメンバーがいるの？
+
+**学部1年生から大学院生まで**、幅広い学年のメンバーが所属しています。学年や専門分野の垣根を越えて、みんなで和気あいあいと活動しているのが特徴です。2025年度は、B1が4人、B3が2人、M1が2人、M2が1人という構成でした。雑誌作りに興味がある人なら誰でも大歓迎です！
+
+---
+
+## 主な活動について
+
+totでは、オンラインでの定期的なミーティングと、月に一度の対面での活動を組み合わせています。
+
+### 💻 オンライン定例会
+
+**毎週水曜日の21:00から1時間程度**、オンラインで定例会を開いています。各企画の進捗を共有したり、次の号のアイデアを出し合ったり、時には雑談で盛り上がったりと、リラックスした雰囲気で進めています。 （日時はメンバーの履修に合わせて調整することもあります！）
+
+### 🤝 対面会
+
+**月に一度**、大宮や豊洲のキャンパスで集まっています。印刷物の最終チェックをしたり、部員同士で交流したりするのが主な目的です。過去には、みんなが集まりやすい赤羽で開催したこともありますよ。
+
+過去の対面会日程
+| 日時 | 曜日 | 時間 | 場所 |
+| :--- | :--- | :--- | :--- |
+| 2025/02/07 | 金 | 10:00～ | 大宮キャンパス |
+| 2025/03/15 | 土 | 13:00～ | 赤羽 |
+| 2025/05/04 | 日 | 13:00～ | 豊洲キャンパス |
+| 2025/06/29 | 日 | 13:00～ | 大宮キャンパス |
+
+
+## 年間の活動スケジュール
+
+totでは、年に2回（春号・秋号）の雑誌発行を目標に活動しています。以下の表は、制作から発行、イベント参加までのおおまかな流れです。
+
+
+<table>
+  <thead>
+    <tr>
+      <th width="10%"></th>
+      <th width="7.5%">4月</th>
+      <th width="7.5%">5月</th>
+      <th width="7.5%">6月</th>
+      <th width="7.5%">7月</th>
+      <th width="7.5%">8月</th>
+      <th width="7.5%">9月</th>
+      <th width="7.5%">10月</th>
+      <th width="7.5%">11月</th>
+      <th width="7.5%">12月</th>
+      <th width="7.5%">1月</th>
+      <th width="7.5%">2月</th>
+      <th width="7.5%">3月</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>企画</td>
+      <td></td>
+      <td colspan="2" style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td colspan="2" style={{ backgroundColor: 'lime' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><a href="/event/shibaura-festival">制作</a></td>
+      <td><a href="/event/shibaura-festival">取材</a></td>
+      <td></td>
+      <td colspan="3" style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td colspan="3" style={{ backgroundColor: 'lime' }}></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="/event/shibaura-festival">編集</a></td>
+      <td></td>
+      <td></td>
+      <td colspan="4" style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td colspan="4" style={{ backgroundColor: 'lime' }}></td>
+    </tr>
+    <tr>
+      <td>校閲</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: 'lime' }}></td>
+    </tr>
+    <tr>
+      <td><a href="/event/shibaura-festival">入稿</a></td>
+      <td style={{ backgroundColor: 'lime' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>展示</td>
+      <td></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/docs/event/omiya-festival" style={{ color: 'white' }}>大宮祭</a></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/docs/event/sfa" style={{ color: 'white' }}>SFA</a></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/docs/event/shibaura-festival" style={{ color: 'white' }}>芝浦祭</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/docs/event/sfa" style={{ color: 'white' }}>SFA</a></td>
+    </tr>
+  </tbody>
+</table>
+
+--- 
+
+<table>
+  <thead>
+    <tr>
+      <th width="10%"></th>
+      <th width="7.5%">4月</th>
+      <th width="7.5%">5月</th>
+      <th width="7.5%">6月</th>
+      <th width="7.5%">7月</th>
+      <th width="7.5%">8月</th>
+      <th width="7.5%">9月</th>
+      <th width="7.5%">10月</th>
+      <th width="7.5%">11月</th>
+      <th width="7.5%">12月</th>
+      <th width="7.5%">1月</th>
+      <th width="7.5%">2月</th>
+      <th width="7.5%">3月</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>企画</td>
+      <td></td>
+      <td colspan="2" style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td colspan="2" style={{ backgroundColor: 'lime' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><a href="/event/shibaura-festival">制作</a></td>
+      {/* フォルダ名が「取材」のため修正 */}
+      <td><a href="/event/shibaura-festival">取材</a></td>
+      <td></td>
+      <td colspan="3" style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td colspan="3" style={{ backgroundColor: 'lime' }}></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      {/* 「編集関連」というフォルダはおそらく「編集」のため修正 */}
+      <td><a href="/event/shibaura-festival">編集</a></td>
+      <td></td>
+      <td></td>
+      <td colspan="4" style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td colspan="4" style={{ backgroundColor: 'lime' }}></td>
+    </tr>
+    <tr>
+      <td>校閲</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: 'lime' }}></td>
+    </tr>
+    <tr>
+      {/* ここが問題の箇所です。「入稿関連」を「入稿」に修正 */}
+      <td><a href="/event/shibaura-festival">入稿</a></td>
+      <td style={{ backgroundColor: 'lime' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: 'orange' }}></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>展示</td>
+      <td></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/event/omiya-festival" style={{ color: 'white' }}>大宮祭</a></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/event/sfa" style={{ color: 'white' }}>SFA</a></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/event/shibaura-festival" style={{ color: 'white' }}>芝浦祭</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/event/sfa" style={{ color: 'white' }}>SFA</a></td>
+    </tr>
+  </tbody>
+</table>
