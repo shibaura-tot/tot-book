@@ -2,12 +2,11 @@
 sidebar_position: 1
 ---
 
-
+import Link from '@docusaurus/Link';
 
 # totへようこそ！
 
 totは、芝浦工業大学で学生向けのフリーペーパーを企画から制作、発行まで行っている公認サークルです。大学生の「知りたい！」に応える記事から、ちょっとマニアックな面白い企画まで、自分たちが作りたいものを形にしています！
-
 
 ---
 
@@ -29,14 +28,9 @@ totでは、オンラインでの定期的なミーティングと、月に一�
 
 **月に一度**、大宮や豊洲のキャンパスで集まっています。印刷物の最終チェックをしたり、部員同士で交流したりするのが主な目的です。過去には、みんなが集まりやすい赤羽で開催したこともありますよ。
 
-
-
-
-
 ## 年間の活動スケジュール
 
 totでは、年に2回（春号・秋号）の雑誌発行を目標に活動しています。以下の表は、制作から発行、イベント参加までのおおまかな流れです。
-
 
 <table>
   <thead>
@@ -60,38 +54,46 @@ totでは、年に2回（春号・秋号）の雑誌発行を目標に活動し�
     <tr>
       <td>企画</td>
       <td></td>
-      <td colspan="2" style={{ backgroundColor: 'orange' }}></td>
+      <td colSpan="2" style={{ backgroundColor: 'orange' }}></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td colspan="2" style={{ backgroundColor: 'lime' }}></td>
+      <td colSpan="2" style={{ backgroundColor: 'lime' }}></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
+
     <tr>
-      <td rowspan="3"><a href="/event/shibaura-festival">制作</a></td>
-      <td><a href="/event/shibaura-festival">取材</a></td>
+      {/* 制作 → 「制作のはじめに」 */}
+      <td rowSpan="3"><Link to="/docs/production/introduction">制作</Link></td>
+
+      {/* 取材トップ */}
+      <td><Link to="/docs/production/interview">取材</Link></td>
       <td></td>
-      <td colspan="3" style={{ backgroundColor: 'orange' }}></td>
+      <td colSpan="3" style={{ backgroundColor: 'orange' }}></td>
       <td></td>
       <td></td>
       <td></td>
-      <td colspan="3" style={{ backgroundColor: 'lime' }}></td>
+      <td colSpan="3" style={{ backgroundColor: 'lime' }}></td>
       <td></td>
       <td></td>
     </tr>
+
     <tr>
-      <td><a href="/event/shibaura-festival">編集</a></td>
+      {/* 編集トップ */}
+      <td><Link to="/docs/production/editing">編集</Link></td>
       <td></td>
       <td></td>
-      <td colspan="4" style={{ backgroundColor: 'orange' }}></td>
+      <td colSpan="4" style={{ backgroundColor: 'orange' }}></td>
       <td></td>
-      <td colspan="4" style={{ backgroundColor: 'lime' }}></td>
+      <td colSpan="4" style={{ backgroundColor: 'lime' }}></td>
     </tr>
+
     <tr>
-      <td>校閲</td>
+      {/* 校閲トップ */}
+      <td><Link to="/docs/production/proofreading">校閲</Link></td>
       <td></td>
       <td></td>
       <td></td>
@@ -105,8 +107,10 @@ totでは、年に2回（春号・秋号）の雑誌発行を目標に活動し�
       <td></td>
       <td style={{ backgroundColor: 'lime' }}></td>
     </tr>
+
     <tr>
-      <td><a href="/event/shibaura-festival">入稿</a></td>
+      {/* 入稿トップ */}
+      <td><Link to="/docs/production/submission">入稿</Link></td>
       <td style={{ backgroundColor: 'lime' }}></td>
       <td></td>
       <td></td>
@@ -120,22 +124,31 @@ totでは、年に2回（春号・秋号）の雑誌発行を目標に活動し�
       <td></td>
       <td></td>
     </tr>
+
     <tr>
       <td>展示</td>
       <td></td>
-      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/docs/event/omiya-festival" style={{ color: 'white' }}>大宮祭</a></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}>
+        <Link to="/docs/event/omiya-festival" style={{ color: 'white' }}>大宮祭</Link>
+      </td>
       <td></td>
       <td></td>
-      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/docs/event/sfa" style={{ color: 'white' }}>SFA</a></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}>
+        <Link to="/docs/event/sfa" style={{ color: 'white' }}>SFA</Link>
+      </td>
       <td></td>
       <td></td>
-      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/docs/event/shibaura-festival" style={{ color: 'white' }}>芝浦祭</a></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}>
+        <Link to="/docs/event/shibaura-festival" style={{ color: 'white' }}>芝浦祭</Link>
+      </td>
       <td></td>
       <td></td>
       <td></td>
-      <td style={{ backgroundColor: '#800080', color: 'white' }}><a href="/docs/event/sfa" style={{ color: 'white' }}>SFA</a></td>
+      <td style={{ backgroundColor: '#800080', color: 'white' }}>
+        <Link to="/docs/event/sfa" style={{ color: 'white' }}>SFA</Link>
+      </td>
     </tr>
   </tbody>
 </table>
 
---- 
+---
