@@ -121,7 +121,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/ao1137/tot-handbook',
+                href: 'https://github.com/shibaura-tot/tot-book',
               },
             ],
           },
