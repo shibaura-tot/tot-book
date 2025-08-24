@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '芝浦工業大学tot編集部',
-  tagline: 'totの運営マニュアルが書かれたハンドブックです',
+  tagline: 'totの運営と技術が書かれたマニュアルです',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://tot-handbook.vercel.app/',
+  url: 'https://tot-book.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ao1137', // Usually your GitHub org/user name.
-  projectName: 'tot-handbook', // Usually your repo name.
+  organizationName: 'shibaura-tot', // Usually your GitHub org/user name.
+  projectName: 'tot-book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ao1137/tot-handbook/tree/main/tot/',
+            'https://github.com/shibaura-tot/tot-book/tree/main/tot',
         },
         blog: false, // ← このように変更する
         theme: {
@@ -77,11 +77,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'ハンドブック',
+            label: 'ドキュメント',
           },
           
           {
-            href: 'https://github.com/ao1137/tot-handbook',
+            href: 'https://github.com/shibaura-tot/tot-book',
             label: 'GitHub',
             position: 'right',
           },
