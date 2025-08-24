@@ -1,4 +1,4 @@
-# tot-handbook 📖
+# tot-book 📖
 
 芝浦工業大学の学生団体「tot編集部」の知識やノウハウを集約するための公式ハンドブックです。このプロジェクトは [Docusaurus](https://docusaurus.io/) を使って構築されています。
 
@@ -44,12 +44,12 @@
 
 1.  **リポジトリをクローン**
     ```bash
-    git clone https://github.com/ao1137/tot-handbook.git
+    git clone https://github.com/shibaura-tot/tot-book
     ```
 
 2.  **フォルダに移動**
     ```bash
-    cd tot-handbook
+    cd tot-book
     cd tot
     ```
 
