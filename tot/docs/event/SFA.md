@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+slug: /event/sfa
+sidebar_label: SFA
 ---
 
 # SFA

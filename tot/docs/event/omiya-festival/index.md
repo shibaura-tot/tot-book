@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+slug: /event/omiya-festival
+sidebar_label: 大宮祭
 ---
 
 # 大宮祭

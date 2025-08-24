@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+slug: /event/shibaura-festival
+sidebar_label: 芝浦祭
 ---
 
 # 芝浦祭
