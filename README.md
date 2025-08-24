@@ -19,6 +19,10 @@
 
 このハンドブックを自分のPCで動かして、編集に参加することができます。
 
+**環境構築の詳しい手順や発生しうる問題については、[GitHub Wiki](https://github.com/shibaura-tot/tot-book/wiki)にまとめていますので、そちらを参考にしてください。**
+
+
+
 ### 1. 必要なツールのインストール
 
 まず、開発に必要なツールをPCにインストールします。
@@ -67,11 +71,18 @@
 ## 🙌 貢献方法
 
 誤字脱字の修正、新しいページの追加、改善案など、どんな貢献も歓迎します！
-詳しくは `CONTRIBUTING.md`を参照してください。まずは気軽にIssueを立てるか、プルリクエストを送ってください。
 
-**本プロジェクトへの貢献にあたっては、私たちの [行動規範](./CODE_OF_CONDUCT.md) を尊重してください。**
+ **具体的な修正案や機能追加については、気軽にIssueを立てるか、プルリクエストを送ってください。** 
+
+**まだ固まっていないアイデアの提案や質問、雑談などは、[Discussions](https://github.com/shibaura-tot/tot-book/discussions)をご活用ください。** 
+
+詳しくは `CONTRIBUTING.md`も参照してください。 
+
+本プロジェクトへの貢献にあたっては、私たちの [行動規範](CODE_OF_CONDUCT.md) を尊重してください。
 
 ## 🤝 関連リンク
 
-- **芝浦工業大学 tot編集部公式サイト:** [https://tot-ch.com/](https://tot-ch.com/)
-- **Docusaurus公式サイト:** [https://docusaurus.io/](https://docusaurus.io/)
+- [芝浦工業大学 tot編集部公式サイト](https://tot-ch.com/)
+- [芝浦工業大学 tot編集部X(旧Twitter)](https://x.com/tot_editors)
+- [芝浦工業大学 tot編集部Instagram](https://www.instagram.com/tot_shibaura/)
+- [Docusaurus公式サイト](https://docusaurus.io/)
