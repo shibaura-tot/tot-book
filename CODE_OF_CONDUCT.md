@@ -51,7 +51,7 @@
 ## 執行
 
 暴言、嫌がらせ、またはそれ以外の受け入れられない行動は、
-bq20026@shibaura-it.ac.jp に連絡して、
+info@tot-ch.com に連絡して、
 プロジェクトチームに報告される可能性があります。すべての苦情は、
 レビュー、調査され、必要かつ適切と判断された対応がとられます。
 プロジェクトチームは、事象の報告者に関する守秘義務があります。
@@ -134,7 +134,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-bq20026@shibaura-it.ac.jp.
+info@tot-ch.com.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
