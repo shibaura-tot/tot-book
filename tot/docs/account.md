@@ -1,5 +1,5 @@
 ---
-sidebar_position: 99
+sidebar_position: 98
 title: 会計
 description: 芝浦工業大学の公認フリーペーパー制作サークル「T.O.T.」の公式ハンドブックです。私たちの理念、活動内容、そして一冊を創り上げる文化について紹介します。
 ---
