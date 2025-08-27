@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '芝浦工業大学tot編集部',
-  tagline: 'totの運営と技術が書かれたマニュアルです',
+  tagline: 'totの運営と技術が書かれたマニュアルです。新入生やメンバーが活動を理解しやすくするための情報をまとめています。', // ← 具体的な説明を追加
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

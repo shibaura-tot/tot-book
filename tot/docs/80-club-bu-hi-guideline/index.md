@@ -1,7 +1,8 @@
 ---
 sidebar_position: 80
 title: 部費の使い方ガイドライン
-description: 部費を個人でどこまで使えるか、申請から精算までのルール
+description: tot編集部での部費の正しい使い方を解説。個人での立替から、申請、精算までの具体的な流れとルールを新入生にも分かりやすくまとめています。
+keywords: ['サークル', '部費', '精算', 'ルール', '芝浦工業大学']
 slug: /club-bu-hi-guideline
 sidebar_label: 部費
 ---
