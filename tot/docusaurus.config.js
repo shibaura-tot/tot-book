@@ -41,6 +41,18 @@ const config = {
     locales: ['ja'],
   },
 
+    // ▼▼▼ この部分を追加 ▼▼▼
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'google-site-verification',
+        content: 'zEyp5QYP_ITm6HOsGTV6yeeU7GZCGdzpjkFEQvhJXH0',
+      },
+    },
+  ],
+  // ▲▲▲ ここまで ▲▲▲
+
   presets: [
     [
       'classic',
