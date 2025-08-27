@@ -40,7 +40,7 @@ sidebar_label: 部費
 6. 台帳反映
 
 参考図（例）
-![精算フロー](/img/club-bu-hi-guideline/flow.png)
+![精算フロー](./docusaurus-social-card.jpg)
 
 ## 金額基準と承認権限（ドラフト）
 
