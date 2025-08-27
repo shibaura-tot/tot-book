@@ -1,6 +1,8 @@
-# Efficiency Analysis Report for tot-book
+# tot-book 効率化分析レポート / Efficiency Analysis Report
 
-## Overview
+## 概要 / Overview
+このレポートは、tot-book Docusaurusドキュメントサイトで特定された効率化改善点を文書化したものです。React コンポーネント、CSS最適化、画像アセット、ビルド設定を分析しています。
+
 This report documents efficiency improvements identified in the tot-book Docusaurus documentation site. The analysis covers React components, CSS optimization, image assets, and build configuration.
 
 ## Identified Efficiency Issues

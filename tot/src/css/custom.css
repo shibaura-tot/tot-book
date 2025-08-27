@@ -1,36 +1,70 @@
 /**
+ * このファイルに書かれたCSSは、サイト全体に適用されます。
+ * Docusaurusは標準でInfimaというCSSフレームワークを使用しており、
+ * コンテンツ中心のウェブサイトに適したデザインを提供します。
+ * 
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here.
-  元のテーマカラー（緑系）は、参考のために以下にコメントアウトして残してあります。
-*/
+/* 
+ * ここでInfimaのデフォルト変数をカスタマイズできます。
+ * 以前は緑系のテーマを使用していましたが、現在は青系に変更されています。
+ * 
+ * You can override the default Infima variables here.
+ * Previously used green theme, now changed to blue theme.
+ */
 
 
 
-/* 現在有効なテーマカラー（青系） */
+/* 
+ * 現在有効なテーマカラー（青系）
+ * サイトのメインカラーとその濃淡を定義しています
+ * Current active theme colors (blue system)
+ * Defines the main color and its variations for the site
+ */
 :root {
+  /* メインの青色 - ボタンやリンクなどに使用される基本色 */
   --ifm-color-primary: #00aaff;
+  
+  /* メインカラーの濃い色のバリエーション - ホバー効果などで使用 */
   --ifm-color-primary-dark: #0099e6;
   --ifm-color-primary-darker: #0088cc;
   --ifm-color-primary-darkest: #006699;
+  
+  /* メインカラーの明るい色のバリエーション - 背景色などで使用 */
   --ifm-color-primary-light: #33bbff;
   --ifm-color-primary-lighter: #4dc2ff;
   --ifm-color-primary-lightest: #80d4ff;
+  
+  /* コードブロックのフォントサイズ（通常の95%に設定） */
   --ifm-code-font-size: 95%;
+  
+  /* コードブロックでハイライトされた行の背景色（ライトモード用） */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* 
+ * ダークモード用のカラー設定
+ * 読みやすさを考慮して、ライトモードより明るい色を使用しています
+ * Dark mode color settings
+ * Uses brighter colors than light mode for better readability
+ */
 [data-theme='dark'] {
+  /* ダークモード用のメインカラー（より明るい青色） */
   --ifm-color-primary: #33bbff;
+  
+  /* ダークモード用の濃い色のバリエーション */
   --ifm-color-primary-dark: #1ab2ff;
   --ifm-color-primary-darker: #00aaff;
   --ifm-color-primary-darkest: #0088cc;
+  
+  /* ダークモード用の明るい色のバリエーション */
   --ifm-color-primary-light: #4dc2ff;
   --ifm-color-primary-lighter: #66ccff;
   --ifm-color-primary-lightest: #99ddff;
+  
+  /* コードブロックでハイライトされた行の背景色（ダークモード用） */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
