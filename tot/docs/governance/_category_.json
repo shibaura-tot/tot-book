@@ -1,0 +1,12 @@
+{
+  "label": "ガバナンス",
+  "position": 80,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "ガバナンス",
+    "description": "規約、総会、会計、情報公開などの運営ルールをまとめています。",
+    "slug": "/governance"
+  }
+}

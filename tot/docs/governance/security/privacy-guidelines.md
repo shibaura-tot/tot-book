@@ -1,7 +1,11 @@
 ---
-sidebar_position: 999
+sidebar_position: 40
 title: 個人情報と公開範囲のガイドライン
-description: totの活動を安心して楽しむために：個人情報と公開範囲のガイドライン
+description: tot編集部における個人情報の定義、公開/非公開の線引き、公開手順の基本ポリシー
+slug: /governance/security/privacy-guidelines
+sidebar_label: 個人情報と公開範囲
+tags: [セキュリティ, プライバシー, 公開範囲, ガバナンス]
+keywords: [個人情報 取り扱い, 公開範囲, サークル ガイドライン, 芝浦工業大学 tot]
 ---
 # totの活動を安心して楽しむために：個人情報と公開範囲のガイドライン
 

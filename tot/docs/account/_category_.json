@@ -1,0 +1,11 @@
+{
+  "label": "会計",
+  "position": 30,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "会計ドキュメント",
+    "description": "会計の方針・手順・年度別の収支報告をまとめています。"
+  }
+}

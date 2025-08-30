@@ -1,0 +1,12 @@
+{
+  "label": "総会",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "総会",
+    "description": "総会の進行シナリオ（台本）と開催ごとの議事録。",
+    "slug": "/governance/general-meeting"
+  }
+}

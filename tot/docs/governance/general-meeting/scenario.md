@@ -1,21 +1,19 @@
 ---
-sidebar_position: 93
-title: 総会進行シナリオ（台本つき）
-description: 学生サークル向けの総会シナリオ。議長・司会のセリフ、議案例、承認方法、議事録署名人の選出まで。銀行・大学提出を想定した最低限の形式をカバー。
-sidebar_label: 総会進行シナリオ
-slug: /governance/general-meeting-script
-tags:
-  - 総会
-  - 会計
-  - ガバナンス
-  - 引き継ぎ
-keywords:
-  - 総会
-  - 進行
-  - 台本
-  - 議事録
-  - サークル運営
+sidebar_position: 1
+title: 総会進行シナリオ（台本）
+description: 司会・議長のセリフ例、定足数確認、採決、議事録署名人の指名など、大学・銀行提出にも耐える最低限の形式を満たす進行台本。
+slug: /governance/general-meeting/scenario
+tags: [総会, ガバナンス, 司会台本]
+keywords: [総会 進行, 学生団体 総会, 議長 セリフ]
 ---
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+:::note 目的
+大学・金融機関に提示可能な最低限の形式を満たしつつ、内部運営でも迷わない台本。
+
+:::
 
 # 総会進行シナリオ（台本）
 

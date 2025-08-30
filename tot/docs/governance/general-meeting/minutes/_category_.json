@@ -1,0 +1,12 @@
+{
+  "label": "議事録",
+  "position": 20,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "総会 議事録（公開版）",
+    "description": "開催日ごとの議事録を公開用に整理したものです。個人情報は含みません。",
+    "slug": "/governance/general-meeting/minutes"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "label": "ガイドライン",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "会計ガイドライン",
+    "description": "経費申請や公開方針など、会計運用のルール集。",
+    "slug": "/account/guidelines"
+  }
+}
