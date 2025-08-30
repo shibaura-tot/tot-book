@@ -20,16 +20,9 @@ keywords: [サークル 会計, 学生団体 会計, 経費 立替 精算, 芝�
 - **公開するもの（Public）**：会計 **サマリー**（集計画像・概要）、運用ルール、各種ガイド  
 - **非公開のもの（Private）**：領収書画像・台帳CSV・口座番号・個人情報（名簿/住所/学籍番号 等）
 
-> 詳細：**[プライバシーと公開ポリシー](/docs/account/privacy-guidelines)**  
-> 収支の出し方：**[経費申請ガイドライン](/docs/account/expense-guideline)**
 
 ---
 
-## 🧭 まずどこを見る？
-
-- 経費の出し方 → **[経費申請ガイドライン](/docs/account/expense-guideline)**  
-- 口座を作る／移す → **[サークル口座の開設](/docs/account/opening)**  
-- 活動の証跡ログ → **[活動記録（公式ログ）](/docs/account/activity-log)**
 
 ---
 
