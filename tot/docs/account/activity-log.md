@@ -2,8 +2,8 @@
 sidebar_position: 97
 title: サークル活動記録
 description: 芝浦工業大学のフリーペーパーサークル「tot編集部」の主な活動実績を整理・公開する公式ログ。銀行の口座開設や大学の団体継続申請に使える、証跡付きテンプレートと運用ルールを掲載。
-slug: /account/privacy-guidelog   # ← こちらに寄せる
-id: account-privacy-log         # 念のため一意な id を
+slug: /account/activity-log
+id: account-activity-log
 sidebar_label: 活動記録
 tags:
   - ガバナンス
@@ -26,7 +26,7 @@ keywords:
 
 :::note 重要
 - **客観的に確認できる証跡（リンク／画像／資料）を必ず添付**してください。
-- 個人情報の扱いは [プライバシーと公開ポリシー](/docs/account/privacy-guidelines) に従ってください（顔写真・連絡先・口座情報等は掲載しない）。
+- 個人情報の扱いは [プライバシーと公開ポリシー](/docs/governance/security/privacy-guidelines) に従ってください（顔写真・連絡先・口座情報等は掲載しない）。
 :::
 
 ---
