@@ -1,27 +1,31 @@
 ---
 sidebar_position: 2
-title: コミュニケーションとツール
-description: 連絡はメイン＝Discord、サブ＝LINE。外部連絡はメール。導入ツール（Zoom/Drive/GitHub/WordPress/Bitwarden）に加え、誌面制作は Adobe Illustrator と Photoshop を使用する方針を明記。
+title: tot内で利用するツール
+description: 連絡はメイン＝Discord、サブ＝LINE。外部連絡はメール。導入ツール（Zoom/Drive/GitHub/WordPress/Bitwarden/Nextcloud/ちまたの会計）に加え、誌面制作は Adobe Illustrator と Photoshop を使用する方針を明記。
 slug: /tot-basics/tools
-sidebar_label: コミュニケーションとツール
-tags: [基本情報, ツール, Discord, LINE, Illustrator, Photoshop, 連絡]
+sidebar_label: tot内ツール
+tags: [基本情報, ツール, Discord, LINE, Illustrator, Photoshop, Nextcloud, 会計]
 keywords:
   - サークル 連絡 ルール
   - Discord 使い分け
   - 学生団体 ツール
   - Illustrator Photoshop 初心者
+  - Nextcloud 使い分け
+  - ちまたの会計
   - 芝浦工業大学 tot
   - 新入生向けガイド
 ---
 
-# コミュニケーションとツール
+# tot内で利用するツール
 
 > **TL;DR**  
 > - 公式連絡・議論・アーカイブ＝**Discord（メイン）**  
 > - 速報／小規模連絡＝**LINEグループ（サブ）**  
 > - 学外向け／正式な依頼＝**メール（info@tot-ch.com）**  
-> - 会議＝**Zoom**、共有＝**Google Drive**、Wiki＝**Docusaurus**  
-> - **誌面制作は Adobe Illustrator（レイアウト）＋ Photoshop（画像加工）** を使用
+> - 会議＝**Zoom**、共有＝**Google Drive**（※Nextcloudは歴史的資産として併用中）  
+> - Wiki＝**Docusaurus**（公開知見）  
+> - **誌面制作は Adobe Illustrator（レイアウト）＋ Photoshop（画像加工）**  
+> - 会計＝**ちまたの会計**（2025導入／単式簿記・現金出納／収支報告）
 
 ---
 
@@ -33,12 +37,13 @@ keywords:
 | 速報・少人数連絡 | **LINEグループ** | 当日集合／遅刻・欠席連絡／緊急連絡 | 補助的運用。決定事項はDiscordへ要約転載 |
 | 学外とのやり取り | **メール** | 取材依頼・大学窓口・企業対応 | 署名・文面テンプレを使用 |
 | オンライン会議 | **Zoom** | 週次の[オンライン定例会](/docs/tot-basics/online-regular-meeting) 等 | 招待URLはDiscordに掲示 |
-| ドキュメント共有 | **Google Drive** | 企画書・画像・会計PDF | フォルダ規約に従って命名 |
+| ドキュメント共有 | **Google Drive** / **Nextcloud（併用）** | 企画書・画像・会計PDF | **Driveに主統合**。Nextcloudは旧資産の保管 |
 | 原稿／Wiki | **GitHub / Docusaurus** | 記事原稿・手順書・ハンドブック | 公開可能な知見はここへ |
-| 内部メモ | **Growi（試験運用）** | 非公開の下書き | 最終判断は翌3月に実施 |
-| パスワード | **Bitwarden** | アカウント・秘密情報の管理 | [パスワード管理ポリシー](/docs/governance/security/passwords) |
+| 内部メモ | **Growi（試験運用）** | 非公開の下書き | 最終判断は年度末に実施 |
+| パスワード | **Bitwarden** | アカウント・秘密情報の管理 | 2FA必須・共有ボルトで管理 |
+| 会計 | **ちまたの会計** | 単式簿記、現金出納帳、収支報告 | 無料／2025導入。2021–2025を移行済み |
 
-> 個人情報・パスワード・口座番号などは**公開Wikiに書かない**（[個人情報と公開範囲]。
+> 個人情報・パスワード・口座番号などは**公開Wikiに書かない**（[プライバシーと公開ポリシー](/docs/governance/security/privacy-guidelines) を参照）。
 
 ---
 
@@ -80,74 +85,60 @@ keywords:
 ## 5. アクセス申請フロー
 
 - **新入部員**：Discord参加 → オンボーディングフォーム → Drive/GitHub権限付与  
-- **役職就任**（会計・Webなど）：Bitwardenボルト昇格＋2FA確認  
-- **退会/役職交代**：権限剥奪 → **パスワード即日ローテ**  
-  - 詳細：[権限の付与・剥奪](/docs/governance/security/access-lifecycle)
+- **役職就任**（会計・Webなど）：Bitwarden共有ボルト昇格＋2FA確認／会計は「ちまたの会計」閲覧権限付与  
+- **退会/役職交代**：権限剥奪 → **パスワード即日ローテ**（Bitwardenの一括更新運用）
 
 ---
 
-## 6. 制作ツール（誌面づくり）
+## 6. ファイル保存の使い分け（Drive／Nextcloud）
 
-> tot の誌面制作は **Adobe Illustrator（＝いられ）** と **Adobe Photoshop（＝フォトショ）** が基本です。
-
-**役割分担の目安**
-- **Illustrator**：ページレイアウト／文字組／トンボ・塗り足し設定／入稿用PDF書き出し  
-- **Photoshop**：写真のRAW現像・色調補正・切り抜き・リサイズ（画像は**リンク配置**）
-
-**最低限の初期設定（覚えておけばOK）**
-- ドキュメント：仕上がりサイズ（例：A5/A4）、**塗り足し3mm**、**CMYK**（印刷用）  
-- フォント：配布可のフォントを使用（Adobe Fonts 推奨）。**勝手に増やさない**  
-- 画像：**解像度 300dpi** 以上、リンクは `images/` フォルダに整理  
-- 書き出し：プリセット「**PDF/X-1a** or 印刷所推奨設定」、**オーバープリント**誤設定に注意
-
-**データ運用**
-- 保存場所：`Google Drive > 制作 > 20XX_○号 > ai/ psd/ images/ pdf/`  
-- 命名規則：`p01_cover.ai` / `p12_feature1.ai` / `img_2025-05-10_撮影者名.jpg`  
-- 共有：入稿直前は **「パッケージ」** でフォント/リンクを束ねて提出  
-- 学内共有版は PDF の**軽量書き出し**も用意すると便利
-
+- 原則は**Google Driveへ統合**（検索性・共同編集・アクセス管理の一貫性を重視）。  
+- **Nextcloud**は「**旧来の保管庫**」として当面残す（過去号データ・一部プラグイン依存ファイルなど）。  
+- 新規作成ファイルは**Drive**に保存。Nextcloudの新規作成は禁止。  
+- 年度末に**完全統合を再評価**（残っている理由が無ければ移行・廃止）。  
+- 個人情報・会計原本は**限定権限**で管理（非公開エリア／アクセスログを残す）。
 
 ---
 
-## 7. 導入ツール一覧（2025）
+## 7. 会計ツール（ちまたの会計：2025導入）
+
+- **無料**で使える単式簿記ツール。**現金出納帳／収支報告書**の作成に対応。  
+- 2021–2025年のデータを**再入力して移行済み**（Excel台帳の年ごとの体裁差異を解消）。  
+- **科目分類**はツールの**デフォルト名を変更しない**（順番変更・追加カスタマイズは可）。  
+- 公開は**サマリー画像のみ**。台帳CSV・領収書原本は**非公開保管**（プライバシー方針に従う）。  
+- 将来は**デザイン統一**や**複式簿記への移行**も検討可（後任会計へ提案事項として引き継ぎ）。
+
+---
+
+## 8. 導入ツール一覧（2025）
 
 | 区分 | ツール | 主な用途 | 管理 |
 |---|---|---|---|
 | コミュニケーション | Discord / LINE | 連絡・議論／緊急連絡 | 代表・運用 |
 | 会議 | Zoom | 定例会・取材オンライン | 代表 |
 | 共同編集 | Google Drive | 企画書・画像・会計PDF | 各担当 |
+| 共同保存（旧） | Nextcloud | 過去資産の保管（新規作成は不可） | 運用 |
 | 原稿/サイト | GitHub / Docusaurus / WordPress | ハンドブック／Web編集版 | Web担当 |
 | **デザイン** | **Adobe Illustrator / Photoshop** | 誌面レイアウト・画像加工 | 編集担当 |
-| パスワード | Bitwarden | 秘密情報の保管・共有 | 代表＋会計 |
-| 内部メモ | Growi（試用） | 非公開の下書き | 運用 |
+| パスワード | Bitwarden | 秘密情報の保管・共有（2FA） | 代表＋会計 |
+| 会計 | ちまたの会計 | 単式簿記・出納・収支報告 | 会計 |
 
-> 追加・廃止は「運営会議」で決定し、ここを更新すること。
-
----
-
-## 8. マナーと小技
-
-- 質問は**結論先出し**＋**補足**（読み手の時間を節約）  
-- スクショは**1枚＝1論点**、後から見つけやすいタイトルを付ける  
-- 迷ったら**Discordメイン**に投げる → 価値があると判断したらWikiへ要約転載
+> 追加・廃止は「運営会議」で決定し、ここを更新すること。統合・廃止は年度末レビューで判断。
 
 ---
 
 ## 9. よくある質問
 
 **Q. いられとフォトショ、どちらから触ればいい？**  
-A. まずは**Photoshopで写真を整える→Illustratorでレイアウト**の順が基本。テンプレを配布します。
+A. まずは**Photoshopで写真を整える → Illustratorでレイアウト**の順が基本。テンプレを配布します。
 
-**Q. 家のPCにAdobeがない**  
-A. 大学アカウントの利用可否を確認。不可なら部内の共有PCや体験版期間を活用し、最終書き出しだけ担当者に依頼でも可。
-
-**Q. Web用の画像は？**  
-A. sRGBで書き出し、長辺 1600px 目安。誌面用PSDはそのまま流用せず、**別書き出し**に。
+**Q. DriveとNextcloud、どっちに置けばいい？**  
+A. **新規はDrive一択**。Nextcloudは**旧資産の閲覧のみ**。年度末に完全統合を再評価します。
 
 ---
 
 ### 関連ページ
 - [オンライン定例会](/docs/tot-basics/online-regular-meeting)  
 - [対面会](/docs/tot-basics/face-to-face-meeting)  
-- [Wikiの運用方針](/docs/open-questions/wiki-tooling)  
-- [パスワード管理ポリシー](/docs/governance/security/passwords)
+- [Wikiの運用方針](/docs/wiki)  
+- [プライバシーと公開ポリシー](/docs/governance/security/privacy-guidelines)
