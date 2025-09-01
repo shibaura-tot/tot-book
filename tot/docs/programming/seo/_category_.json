@@ -1,0 +1,11 @@
+{
+  "label": "SEO / Site Ops",
+  "position": 30,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "slug": "/programming/seo/index",
+    "title": "SEO運用プレイブック",
+    "description": "Docusaurus/WordPressのSEO設定、構造化データ、Search Console、記事チェックリストなどの運用メモ。"
+  }
+}

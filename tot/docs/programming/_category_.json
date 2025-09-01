@@ -1,0 +1,11 @@
+{
+  "label": "プログラミング / 開発",
+  "position": 60,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "slug": "/programming/index",
+    "title": "プログラミング / 開発",
+    "description": "GitHub運用、Docusaurus設定、ビルド/デプロイ、SEO、ツール連携など、サイト運用の技術ドキュメント入口。"
+  }
+}

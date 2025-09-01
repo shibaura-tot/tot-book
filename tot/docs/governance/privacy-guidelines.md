@@ -1,15 +1,10 @@
 ---
-sidebar_position: 96
+sidebar_position: 40
 title: プライバシーと公開ポリシー
 description: tot編集部における個人情報・会計情報・画像等の取り扱い基準。公開・非公開の判断、保存場所、アクセス権限、事故対応までの実務ガイド。
-slug: /account/privacy-guidelines
+slug: /governance/privacy-guidelines
 sidebar_label: プライバシー方針
-tags:
-  - ガバナンス
-  - プライバシー
-  - 情報公開
-  - 会計
-  - 学生団体
+tags: [ガバナンス, プライバシー, 情報公開, 会計, 学生団体]
 keywords:
   - サークル プライバシー
   - 学生団体 情報公開
@@ -17,6 +12,7 @@ keywords:
   - 収支報告 公開
   - 画像の同意書
 ---
+
 
 # プライバシーと公開ポリシー
 
