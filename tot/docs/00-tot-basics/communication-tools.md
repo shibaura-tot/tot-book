@@ -38,7 +38,7 @@ keywords:
 | 内部メモ | **Growi（試験運用）** | 非公開の下書き | 最終判断は翌3月に実施 |
 | パスワード | **Bitwarden** | アカウント・秘密情報の管理 | [パスワード管理ポリシー](/docs/governance/security/passwords) |
 
-> 個人情報・パスワード・口座番号などは**公開Wikiに書かない**（[個人情報と公開範囲](/docs/governance/security/privacy-guidelines)）。
+> 個人情報・パスワード・口座番号などは**公開Wikiに書かない**（[個人情報と公開範囲]。
 
 ---
 
