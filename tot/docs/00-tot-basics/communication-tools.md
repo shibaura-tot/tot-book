@@ -140,5 +140,5 @@ A. **新規はDrive一択**。Nextcloudは**旧資産の閲覧のみ**。年度�
 ### 関連ページ
 - [オンライン定例会](/docs/tot-basics/online-regular-meeting)  
 - [対面会](/docs/tot-basics/face-to-face-meeting)  
-- [Wikiの運用方針](/docs/wiki)  
+- [Wikiの運用方針](/docs/open-questions/wiki-tooling)  
 - [プライバシーと公開ポリシー](/docs/governance/security/privacy-guidelines)
