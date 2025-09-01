@@ -149,5 +149,5 @@ A. sRGBで書き出し、長辺 1600px 目安。誌面用PSDはそのまま流�
 ### 関連ページ
 - [オンライン定例会](/docs/tot-basics/online-regular-meeting)  
 - [対面会](/docs/tot-basics/face-to-face-meeting)  
-- [Wikiの運用方針](/docs/wiki)  
+- [Wikiの運用方針](/docs/open-questions/wiki-tooling)  
 - [パスワード管理ポリシー](/docs/governance/security/passwords)
