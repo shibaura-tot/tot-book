@@ -1,7 +1,7 @@
 {
     "label": "tot未解決問題",
     "position": 70,
-    "collapsed": false,
+    "collapsed": true,
     "link": {
       "type": "generated-index",
       "title": "tot未解決問題（検討中のテーマ）",

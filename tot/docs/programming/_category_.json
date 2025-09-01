@@ -1,7 +1,7 @@
 {
   "label": "プログラミング / 開発",
   "position": 60,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "slug": "/programming/index",
