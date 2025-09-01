@@ -1,7 +1,7 @@
 {
-  "label": "SEO / Site Ops",
+  "label": "SEO運用プレイブック",
   "position": 30,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "slug": "/programming/seo/index",
