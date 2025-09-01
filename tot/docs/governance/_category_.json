@@ -1,11 +1,11 @@
 {
-  "label": "ガバナンス",
+  "label": "ガバナンス・運営",
   "position": 80,
   "collapsible": true,
   "collapsed": true,
   "link": {
     "type": "generated-index",
-    "title": "ガバナンス",
+    "title": "ガバナンス・運営",
     "description": "規約、総会、会計、情報公開などの運営ルールをまとめています。",
     "slug": "/governance"
   }
