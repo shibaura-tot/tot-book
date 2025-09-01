@@ -2,7 +2,7 @@
 sidebar_position: 70
 title: wikiをどれにするか（ナレッジ管理ポリシー）
 description: tot編集部のナレッジ管理方針。Growi / Docusaurus / Discord を比較し、何を書くかの線引き・運用ルール・最短の貢献手順・判断の期限をまとめます。
-slug: /open-questions/wiki
+slug: /open-questions/wiki-tooling
 sidebar_label: wiki選定
 tags:
   - wiki
