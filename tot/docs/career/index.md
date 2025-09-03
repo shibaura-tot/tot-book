@@ -1,5 +1,5 @@
 ---
-sidebar_position: 999
+sidebar_position: 1
 title: 就活で「tot」をどう語るか｜ポートフォリオ総論
 description: 芝浦工業大学 tot編集部の活動を就活でどう語るか。面接の構成、数字の見せ方、逆質問、NG例までを実務視点で整理。
 slug: /career
