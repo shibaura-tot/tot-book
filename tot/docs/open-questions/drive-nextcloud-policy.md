@@ -1,7 +1,7 @@
 ---
 title: Google Drive と Nextcloud の二重運用をどうするか｜統合方針・移行計画
 description: 学生団体で Google Drive と Nextcloud を併用している現状を整理。一本化/ハイブリッド/維持の選択肢比較、推奨アーキテクチャ、フォルダ設計、命名規則、移行手順、同期自動化、権限・ガバナンス、KPIまでを実務レベルで提示。
-slug: /open-questions
+slug: /open-questions/drive
 sidebar_label: Drive×Nextcloud方針
 tags: [ドライブ, nextcloud, ファイル管理, ガバナンス, 情報設計, 運用設計, バックアップ]
 keywords:
