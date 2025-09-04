@@ -48,7 +48,7 @@ toc_max_heading_level: 4
 :::tip[メモ]
 - AIを積極的に活用しよう。成功の要因分析をAIに手伝ってもらおう。「この行動の裏にある強みは何だと思う？」と壁打ち相手になってもらうと良い。
 - 他己分析も有効。周りの人に「あの時、なんでうまくいったと思う？」と聞いてみよう。自分では気づけない視点が得られるはずだ。
-- このwiki記事は[前田裕二『メモの魔力』](https.valuebooks.jp/%E3%83%A1%E3%83%A2%E3%81%AE%E9%AD%94%E5%8A%9B--NewsPicks-Book-/bp/VS0052217025)に影響を受けている。
+- このwiki記事は[前田裕二『メモの魔力』](https://valuebooks.jp/%E3%83%A1%E3%83%A2%E3%81%AE%E9%AD%94%E5%8A%9B--NewsPicks-Book-/bp/VS0052217025)に影響を受けている。
 - このwiki記事は[健常者エミュレータ事例集](https://healthy-person-emulator.org/readme)、[健常者エミュレータ事例集のGitHubリンク](https://github.com/sora32127/healthy-person-emulator-dotorg)に影響を受けている。
 :::
 
