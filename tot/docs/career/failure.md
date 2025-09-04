@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 title: "失敗談"
 description: "tot編集部での失敗を就活で語るための構成。失敗を糧に再現性ある学びへ転換。"
 slug: /career/failure

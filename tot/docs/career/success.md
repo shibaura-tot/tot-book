@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 title: "成功談"
 description: "totでの成功体験を就活で語れる強みに変える。うまくいったことを分析し、再現性のある学びに昇華させるためのフレームワーク。"
 slug: /career/success
