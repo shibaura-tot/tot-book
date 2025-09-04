@@ -1,20 +1,24 @@
 ---
 sidebar_position: 3
-title: しくじり話
-description: tot編集部での失敗を就活で語れるエピソードに昇華させる。単純なしくじり話を、自己分析と改善行動を示す「再現性のある学び」へと転換するためのフレームワークと思考法を解説。
-slug: /career/failure-to-learning
+title: "しくじり話と再現可能な学び（What→So What→Now What）"
+description: "tot編集部での失敗を就活で語るための構成。失敗を糧に再現性ある学びへ転換。"
+slug: /career/failure
 sidebar_label: しくじり話
-tags: [就活, 失敗談, 振り返り, 自己分析, 改善行動, フレームワーク]
+tags:
+  - 就活
+  - 失敗談
+  - 振り返り
+  - 改善
 keywords:
-  - 面接 失敗談
-  - 振り返り フレームワーク
-  - What So What Now What
-  - 課題解決能力
-  - RACI
-
+  - 面接 失敗談
+  - 振り返り フレームワーク
+  - What So What Now What
+  - 課題解決能力
+  - RACI
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 ---
+
 
 # 失敗談と再現可能な学び
 
