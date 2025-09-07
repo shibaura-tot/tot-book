@@ -1,0 +1,10 @@
+{
+    "label": "開発日記",
+    "position": 99,
+    "link": {
+      "type": "generated-index",
+      "title": "開発日記",
+      "description": "tot-book の開発の歩み。意思決定・検証・反省を時系列に。"
+    }
+  }
+  
