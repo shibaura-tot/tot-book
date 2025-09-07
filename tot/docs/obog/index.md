@@ -1,5 +1,5 @@
 ---
-sidebar_position: 85
+sidebar_position: 20
 title: OB・OG
 description: OB・OGとの連携方針。Discordロール設計、チャンネル設計、年間運用、連絡テンプレ、個人情報ポリシーまでを1ページに集約。
 slug: /club-obog
